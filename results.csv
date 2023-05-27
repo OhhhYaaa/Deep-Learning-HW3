@@ -1,0 +1,6 @@
+,Scratch,PyTorch,Keras
+Accuracy Test,0.1689,0.1133,0.1733
+Accuracy Val,0.1644,0.1111,0.1556
+Inference Time,3.1046,0.0673,0.239
+Space Complexity,98703.9744,661.64,255.488
+FLOPS,,41.9251,0.0423
